@@ -131,7 +131,7 @@ const App: React.FC = () => {
    * Displays a snackbar message for features that are not implemented in this prototype.
    */
   const handleNotImplemented = () => {
-    setSnackbarMessage('Functionality not implemented for this Challenge.');
+    setSnackbarMessage('Funcionalidad no implementada en el Challenge.');
   };
 
   /**
@@ -212,7 +212,7 @@ const App: React.FC = () => {
             <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
             <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
           </svg>
-          <p className="text-lg text-gray-600">Loading product...</p>
+          <p className="text-lg text-gray-600">Cargando Producto...</p>
         </div>
       </div>
     );
@@ -223,7 +223,7 @@ const App: React.FC = () => {
     return (
        <div className="flex items-center justify-center min-h-screen bg-gray-100 p-4">
         <div className="text-center p-8 bg-white rounded-lg shadow-md max-w-md">
-          <h2 className="text-2xl font-bold text-red-600 mb-2">An Error Occurred</h2>
+          <h2 className="text-2xl font-bold text-red-600 mb-2">Un error ha ocurrido</h2>
           <p className="text-gray-700 mb-6">{error}</p>
           <button 
             onClick={() => window.location.reload()}
@@ -241,7 +241,7 @@ const App: React.FC = () => {
     return (
       <div className="flex items-center justify-center min-h-screen bg-gray-100">
         <div className="text-center">
-          <p className="text-lg text-gray-600">Preparing product information...</p>
+          <p className="text-lg text-gray-600">Preparando información del producto...</p>
         </div>
       </div>
     );
@@ -261,7 +261,7 @@ const App: React.FC = () => {
                 <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
                 <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
             </svg>
-            <p className="text-lg text-gray-600">Loading...</p>
+            <p className="text-lg text-gray-600">Cargando...</p>
             </div>
         </div>
       )}

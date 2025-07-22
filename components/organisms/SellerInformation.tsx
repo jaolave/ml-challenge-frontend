@@ -82,11 +82,11 @@ const SellerInformation: React.FC<SellerInformationProps> = ({ sellerData, onNot
         <div className="flex-grow">
           <h3 className="font-semibold text-gray-800">{sellerData.name}</h3>
           <div className="flex gap-2 text-xs text-gray-500 mt-1">
-            <p><span className="font-bold text-gray-700">{sellerData.followers}</span> Followers</p>
-            <p><span className="font-bold text-gray-700">{sellerData.products}</span> Products</p>
+            <p><span className="font-bold text-gray-700">{sellerData.followers}</span> Seguidores</p>
+            <p><span className="font-bold text-gray-700">{sellerData.products}</span> Productos</p>
           </div>
         </div>
-        <button onClick={handleNotImplementedClick} className="text-blue-500 text-sm font-semibold hover:text-blue-600">Follow</button>
+        <button onClick={handleNotImplementedClick} className="text-blue-500 text-sm font-semibold hover:text-blue-600">Seguir</button>
       </div>
 
       {/* Status */}
@@ -115,22 +115,22 @@ const SellerInformation: React.FC<SellerInformationProps> = ({ sellerData, onNot
       <div className="grid grid-cols-3 gap-2 text-center">
         <div>
           <p className="font-semibold text-lg text-gray-800">{sellerData.sales}</p>
-          <p className="text-xs text-gray-500 leading-tight">Completed sales</p>
+          <p className="text-xs text-gray-500 leading-tight">Ventas concretadas</p>
         </div>
         <div>
             <img src={sellerData.messageIconUrl} alt="Good service" className="w-7 h-7 mx-auto mb-1" onError={handleImageError} />
-            <p className="text-xs text-gray-500 leading-tight">Provides good service</p>
+            <p className="text-xs text-gray-500 leading-tight">Brinda buena atención</p>
         </div>
         <div>
             <img src={sellerData.timeIconUrl} alt="On-time delivery" className="w-7 h-7 mx-auto mb-1" onError={handleImageError} />
-            <p className="text-xs text-gray-500 leading-tight">Delivers products on time</p>
+            <p className="text-xs text-gray-500 leading-tight">Entrega sus productos a tiempo</p>
         </div>
       </div>
 
       {/* Footer Link */}
       <div className="border-t mt-2 pt-2">
         <a href={sellerData.sellerPageUrl} onClick={handleNotImplementedClick} className="text-blue-500 hover:text-blue-600 text-sm font-semibold w-full block">
-          Go to seller's page
+          Ir a la página del vendedor
         </a>
       </div>
     </div>

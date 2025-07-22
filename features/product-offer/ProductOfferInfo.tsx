@@ -80,10 +80,10 @@ const ProductOfferInfo: React.FC<ProductOfferInfoProps> = ({
     <div className="bg-white rounded-lg shadow-sm p-6 flex flex-col space-y-2">
       <div className="flex justify-between items-center text-xs">
           <div className="text-gray-500">
-            {offerData.productInfo.condition} | +{offerData.productInfo.soldCount} sold
+            {offerData.productInfo.condition} | +{offerData.productInfo.soldCount} vendidos
           </div>
           <div className="flex items-center gap-1">
-            <span className="text-gray-500">Currency:</span>
+            <span className="text-gray-500">Moneda:</span>
             <button onClick={() => setCurrency('COP')} className={`px-2 py-0.5 rounded ${currency === 'COP' ? 'bg-blue-100 text-blue-600 font-semibold' : 'text-gray-600 hover:bg-gray-100'}`}>COP</button>
             <button onClick={() => setCurrency('USD')} className={`px-2 py-0.5 rounded ${currency === 'USD' ? 'bg-blue-100 text-blue-600 font-semibold' : 'text-gray-600 hover:bg-gray-100'}`}>USD</button>
           </div>
@@ -110,10 +110,10 @@ const ProductOfferInfo: React.FC<ProductOfferInfoProps> = ({
       {currentPricing.installments && (
         <>
             <div className="text-base text-gray-700">
-            in {currentPricing.installments.months} installments of {formatCurrency(currentPricing.installments.amount, currency)}
-            {currentPricing.installments.interestFree && <span className="text-green-600"> with 0% interest</span>}
+            in {currentPricing.installments.months} cuotas de {formatCurrency(currentPricing.installments.amount, currency)}
+            {currentPricing.installments.interestFree && <span className="text-green-600"> con 0% interés</span>}
             </div>
-            <a href="#" onClick={handleNotImplementedClick} className="text-blue-500 text-sm hover:text-blue-600">See payment methods</a>
+            <a href="#" onClick={handleNotImplementedClick} className="text-blue-500 text-sm hover:text-blue-600">Ver metodos de pago</a>
         </>
       )}
 
@@ -150,7 +150,7 @@ const ProductOfferInfo: React.FC<ProductOfferInfoProps> = ({
       {/* Highlighted Features */}
        {offerData.highlightedFeatures && offerData.highlightedFeatures.length > 0 && (
         <div className="border-t pt-2 mt-2">
-            <h2 className="text-sm font-semibold text-gray-800 mb-2">What you need to know about this product</h2>
+            <h2 className="text-sm font-semibold text-gray-800 mb-2">Lo que tienes que saber de este producto</h2>
             <ul className="list-disc list-inside space-y-1 text-xs text-gray-600">
                 {offerData.highlightedFeatures.map((feature: string, index: number) => (
                     <li key={index}>{feature}</li>

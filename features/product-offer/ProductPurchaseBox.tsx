@@ -47,9 +47,9 @@ const ProductPurchaseBox: React.FC<ProductPurchaseBoxProps> = ({ selectedVariant
             <div className="flex items-start gap-2">
                 <Icon name="truck" className="w-6 h-6 text-green-600 mt-1" />
                 <div>
-                    <p className="font-semibold text-green-600">Arrives free {shippingInfo.timeline}</p>
-                    {shippingInfo.deadline && <p className="text-xs text-gray-500">Order within the next <span className="text-orange-500">{shippingInfo.deadline}</span></p>}
-                    <a href={shippingInfo.moreOptionsUrl} onClick={handleNotImplementedClick} className="text-blue-500 text-sm hover:text-blue-600 mt-1">See more delivery options</a>
+                    <p className="font-semibold text-green-600">Llega gratis {shippingInfo.timeline}</p>
+                    {shippingInfo.deadline && <p className="text-xs text-gray-500">Ordena dentro de las proximas <span className="text-orange-500">{shippingInfo.deadline}</span></p>}
+                    <a href={shippingInfo.moreOptionsUrl} onClick={handleNotImplementedClick} className="text-blue-500 text-sm hover:text-blue-600 mt-1">Más formas de entrega</a>
                 </div>
             </div>
 
@@ -57,16 +57,16 @@ const ProductPurchaseBox: React.FC<ProductPurchaseBoxProps> = ({ selectedVariant
             <div className="flex items-start gap-2">
                 <Icon name="store" className="w-6 h-6 text-green-600 mt-1" />
                 <div>
-                    <p className="font-semibold text-green-600">Pick up free {pickupInfo.timeline}</p>
+                    <p className="font-semibold text-green-600">Retira gratis  {pickupInfo.timeline}</p>
                     <p className="text-xs text-gray-500">{pickupInfo.location}</p>
-                    <a href={pickupInfo.mapUrl} onClick={handleNotImplementedClick} className="text-blue-500 text-sm hover:text-blue-600 mt-1">See on map</a>
+                    <a href={pickupInfo.mapUrl} onClick={handleNotImplementedClick} className="text-blue-500 text-sm hover:text-blue-600 mt-1">Ver en el mapa</a>
                 </div>
             </div>
             
             {selectedVariant.stock > 0 ? (
                 <QuantitySelector quantity={quantity} setQuantity={setQuantity} stock={selectedVariant.stock} />
             ) : (
-                <p className="font-semibold text-gray-800 pt-2">Out of stock</p>
+                <p className="font-semibold text-gray-800 pt-2">Sin stock</p>
             )}
 
             {/* Action Buttons */}
@@ -75,13 +75,13 @@ const ProductPurchaseBox: React.FC<ProductPurchaseBoxProps> = ({ selectedVariant
                     onClick={handleNotImplementedClick}
                     disabled={selectedVariant.stock === 0}
                     className="w-full bg-blue-500 hover:bg-blue-600 text-white font-semibold py-3 rounded-md transition-colors disabled:bg-gray-300 disabled:cursor-not-allowed">
-                Buy now
+                Comprar ahora
                 </button>
                 <button
                     onClick={handleNotImplementedClick}
                     disabled={selectedVariant.stock === 0}
                     className="w-full bg-blue-100 hover:bg-blue-200 text-blue-500 font-semibold py-3 rounded-md transition-colors disabled:bg-gray-200 disabled:text-gray-400 disabled:cursor-not-allowed">
-                Add to cart
+                Agregar al carrito
                 </button>
             </div>
             

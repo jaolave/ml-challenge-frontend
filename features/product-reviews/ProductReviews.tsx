@@ -76,21 +76,21 @@ const ProductReviews: React.FC<ProductReviewsProps> = ({ reviewsData, onNotImple
 
   return (
     <section>
-      <h2 className="text-2xl font-light text-gray-800 mb-2">Product reviews</h2>
+      <h2 className="text-2xl font-light text-gray-800 mb-2">Reseñas del producto</h2>
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-2 mb-2">
         {/* Rating Summary */}
         <div className="lg:col-span-1">
           <div className="flex items-start gap-2 mb-2">
-            <p className="text-5xl font-light text-gray-800" aria-label={`Average rating: ${reviewsData.averageRating}`}>{reviewsData.averageRating}</p>
+            <p className="text-5xl font-light text-gray-800" aria-label={`Calificación promedio: ${reviewsData.averageRating}`}>{reviewsData.averageRating}</p>
             <div className="pt-2">
               <StarRating rating={reviewsData.averageRating} starClassName="w-4 h-4 text-blue-500" />
-              <p className="text-sm text-gray-600 mt-2">{`${reviewsData.totalReviews} reviews`}</p>
+              <p className="text-sm text-gray-600 mt-2">{`${reviewsData.totalReviews} reseñas`}</p>
             </div>
           </div>
           <ul className="space-y-2">
             {reviewsData.ratingDistribution.map(({ stars, percentage }) => (
-              <li key={stars} className="flex items-center gap-2 text-sm" aria-label={`${percentage} of reviews are ${stars} stars`}>
+              <li key={stars} className="flex items-center gap-2 text-sm" aria-label={`${percentage} de las reseñas son de ${stars} estrellas`}>
                 <div className="flex-grow bg-gray-200 rounded-full h-1.5">
                   <div className="bg-gray-400 h-1.5 rounded-full" style={{ width: percentage }}></div>
                 </div>
@@ -105,7 +105,7 @@ const ProductReviews: React.FC<ProductReviewsProps> = ({ reviewsData, onNotImple
 
         {/* Feature Ratings */}
         <div className="hidden lg:block lg:col-span-1">
-          <h3 className="font-semibold text-gray-700 mb-2">Feature ratings</h3>
+          <h3 className="font-semibold text-gray-700 mb-2">Calificaciones por característica</h3>
           <table className="w-full text-sm">
             <tbody>
               {reviewsData.featureRatings.map(feature => (
@@ -122,10 +122,10 @@ const ProductReviews: React.FC<ProductReviewsProps> = ({ reviewsData, onNotImple
         
         {/* Review Photos */}
         <div className="hidden lg:block lg:col-span-1">
-          <h3 className="font-semibold text-gray-700 mb-2">Reviews with photos</h3>
+          <h3 className="font-semibold text-gray-700 mb-2">Reseñas con fotos</h3>
           <div className="flex gap-2 overflow-x-auto pb-2">
             {reviewsData.reviewPhotos.slice(0, 5).map((photo, index) => (
-              <img key={index} src={photo} alt={`Review photo ${index+1}`} className="w-20 h-20 object-cover rounded-md flex-shrink-0" onError={handleImageError} />
+              <img key={index} src={photo} alt={`Foto de reseña ${index+1}`} className="w-20 h-20 object-cover rounded-md flex-shrink-0" onError={handleImageError} />
             ))}
           </div>
         </div>
@@ -136,7 +136,7 @@ const ProductReviews: React.FC<ProductReviewsProps> = ({ reviewsData, onNotImple
       {/* AI Summary & Individual Reviews */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
         <div className="space-y-2">
-            <h3 className="text-lg font-semibold text-gray-800">Featured reviews</h3>
+            <h3 className="text-lg font-semibold text-gray-800">Reseñas destacadas</h3>
             {displayedReviews.map(review => (
                 <article key={review.id} className="border-b border-gray-200 pb-2 last:border-b-0 last:pb-0">
                     <div className="flex justify-between items-center mb-2">
@@ -146,7 +146,7 @@ const ProductReviews: React.FC<ProductReviewsProps> = ({ reviewsData, onNotImple
                     {review.photos.length > 0 && (
                         <div className="flex gap-2 my-2">
                             {review.photos.map((photo, i) => (
-                                <img key={i} src={photo} alt={`Photo from review ${i+1}`} className="w-16 h-16 rounded-md object-cover" onError={handleImageError}/>
+                                <img key={i} src={photo} alt={`Foto de la reseña ${i+1}`} className="w-16 h-16 rounded-md object-cover" onError={handleImageError}/>
                             ))}
                         </div>
                     )}
@@ -154,11 +154,11 @@ const ProductReviews: React.FC<ProductReviewsProps> = ({ reviewsData, onNotImple
                     {review.isFromOfficialStore && (
                         <p className="flex items-center gap-1.5 text-xs text-gray-600 mb-2">
                             <Icon name="verifiedPurchase" className="w-3.5 h-3.5 text-blue-500" />
-                            <span>Purchased from Tienda oficial Samsung</span>
+                            <span>Comprado en Tienda oficial</span>
                         </p>
                     )}
                      <div className="flex items-center gap-2">
-                        <button onClick={handleNotImplementedClick} className="flex items-center gap-2 text-sm text-gray-500 hover:text-blue-500" aria-label={`Like review. Current likes: ${review.likes}`}>
+                        <button onClick={handleNotImplementedClick} className="flex items-center gap-2 text-sm text-gray-500 hover:text-blue-500" aria-label={`Me gusta en la reseña. Likes actuales: ${review.likes}`}>
                             <Icon name="thumbsUp" className="w-5 h-5" />
                             <span>{review.likes}</span>
                         </button>
@@ -168,19 +168,19 @@ const ProductReviews: React.FC<ProductReviewsProps> = ({ reviewsData, onNotImple
         </div>
         
         <div className="space-y-2">
-            <h3 className="text-lg font-semibold text-gray-800">Community summary</h3>
+            <h3 className="text-lg font-semibold text-gray-800">Resumen de la comunidad</h3>
              <div className="p-2 border rounded-lg bg-gray-50">
                  <p className="text-sm text-gray-700 leading-relaxed">{reviewsData.aiSummary}</p>
                  <div className="flex items-center gap-2 mt-2 text-xs text-blue-600">
                      <Icon name="aiSparkle" className="w-4 h-4" />
-                     <span>Review summary generated by AI</span>
+                     <span>Resumen de reseñas generado por IA</span>
                  </div>
             </div>
         </div>
       </div>
        <div className="border-t border-gray-200 mt-2 pt-2">
         <button onClick={() => setShowAllReviews(!showAllReviews)} className="text-blue-500 hover:text-blue-600 font-semibold text-sm">
-          {showAllReviews ? 'Show fewer reviews' : 'Show all reviews'}
+          {showAllReviews ? 'Mostrar menos reseñas' : 'Mostrar todas las reseñas'}
         </button>
       </div>
 
