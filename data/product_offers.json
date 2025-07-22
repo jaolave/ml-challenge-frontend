@@ -1,0 +1,190 @@
+{
+  "1": {
+    "productInfo": {
+      "condition": "Nuevo",
+      "soldCount": 500,
+      "rating": 4.8,
+      "reviewsCount": 212
+    },
+    "variations": [
+      { "name": "Color", "attribute": "color" },
+      { "name": "Memoria RAM", "attribute": "ram" }
+    ],
+    "variants": [
+      {
+        "id": 101,
+        "attributes": { "color": "Titanium Black", "ram": "12 GB RAM" },
+        "title": "256 GB Titanium Black 12 GB RAM",
+        "imageIndex": 0,
+        "pricing": {
+          "COP": { "price": 5400000, "originalPrice": 6000000, "installments": { "months": 6, "amount": 900000, "interestFree": true } },
+          "USD": { "price": 1350.00, "originalPrice": 1500.00, "installments": { "months": 6, "amount": 225.00, "interestFree": true } }
+        },
+        "stock": 15
+      },
+      {
+        "id": 102,
+        "attributes": { "color": "Titanium Black", "ram": "16 GB RAM" },
+        "title": "512 GB Titanium Black 16 GB RAM",
+        "imageIndex": 0,
+        "pricing": {
+          "COP": { "price": 6100000, "originalPrice": 6800000, "installments": { "months": 6, "amount": 1016667, "interestFree": true } },
+          "USD": { "price": 1525.00, "originalPrice": 1700.00, "installments": { "months": 6, "amount": 254.17, "interestFree": true } }
+        },
+        "stock": 10
+      }
+    ],
+    "highlightedFeatures": [
+        "Dispositivo desbloqueado para que elijas tu compañía telefónica preferida.",
+        "Cámaras de nivel profesional para fotos y videos impresionantes.",
+        "Pantalla Dynamic AMOLED 2X con 120 Hz para una experiencia visual fluida."
+    ]
+  },
+  "2": {
+    "productInfo": { "condition": "Nuevo", "soldCount": 850, "rating": 4.9, "reviewsCount": 340 },
+    "variations": [
+        { "name": "Color", "attribute": "color" },
+        { "name": "Memoria interna", "attribute": "storage" }
+    ],
+    "variants": [
+        { "id": 201, "attributes": { "color": "Natural Titanium", "storage": "256 GB" }, "title": "256 GB Natural Titanium", "imageIndex": 0, 
+            "pricing": {
+                "COP": { "price": 7200000, "originalPrice": 7500000, "installments": { "months": 12, "amount": 600000, "interestFree": true } },
+                "USD": { "price": 1800.00, "originalPrice": 1875.00, "installments": { "months": 12, "amount": 150.00, "interestFree": true } }
+            },
+            "stock": 50 
+        },
+        { "id": 202, "attributes": { "color": "Blue Titanium", "storage": "256 GB" }, "title": "256 GB Blue Titanium", "imageIndex": 1, 
+            "pricing": {
+                "COP": { "price": 7200000, "originalPrice": 7500000, "installments": { "months": 12, "amount": 600000, "interestFree": true } },
+                "USD": { "price": 1800.00, "originalPrice": 1875.00, "installments": { "months": 12, "amount": 150.00, "interestFree": true } }
+            },
+            "stock": 40 
+        },
+        { "id": 203, "attributes": { "color": "Natural Titanium", "storage": "512 GB" }, "title": "512 GB Natural Titanium", "imageIndex": 0, 
+            "pricing": {
+                "COP": { "price": 8200000, "originalPrice": 8600000, "installments": { "months": 12, "amount": 683333, "interestFree": true } },
+                "USD": { "price": 2050.00, "originalPrice": 2150.00, "installments": { "months": 12, "amount": 170.83, "interestFree": true } }
+            },
+            "stock": 20 
+        }
+    ],
+    "highlightedFeatures": ["Procesador A18 Bionic para un rendimiento sin igual.", "Sistema de cámaras Pro con calidad cinematográfica."]
+  },
+  "3": {
+    "productInfo": { "condition": "Nuevo", "soldCount": 450, "rating": 4.7, "reviewsCount": 450 },
+    "variations": [
+      { "name": "Color", "attribute": "color" },
+      { "name": "Memoria interna", "attribute": "storage" }
+    ],
+    "variants": [
+      { "id": 301, "attributes": { "color": "Graphite Gray", "storage": "128 GB" }, "title": "128 GB Graphite Gray", "imageIndex": 0, 
+        "pricing": {
+          "COP": { "price": 1850000, "originalPrice": 2200000, "installments": { "months": 12, "amount": 154167, "interestFree": true } },
+          "USD": { "price": 462.50, "originalPrice": 550.00, "installments": { "months": 12, "amount": 38.54, "interestFree": true } }
+        },
+        "stock": 30 
+      },
+      { "id": 302, "attributes": { "color": "Polar White", "storage": "128 GB" }, "title": "128 GB Polar White", "imageIndex": 1, 
+        "pricing": {
+          "COP": { "price": 1850000, "originalPrice": 2200000, "installments": { "months": 12, "amount": 154167, "interestFree": true } },
+          "USD": { "price": 462.50, "originalPrice": 550.00, "installments": { "months": 12, "amount": 38.54, "interestFree": true } }
+        },
+        "stock": 25 
+      },
+      { "id": 303, "attributes": { "color": "Graphite Gray", "storage": "256 GB" }, "title": "256 GB Graphite Gray", "imageIndex": 0, 
+        "pricing": {
+          "COP": { "price": 2100000, "originalPrice": 2500000, "installments": { "months": 12, "amount": 175000, "interestFree": true } },
+          "USD": { "price": 525.00, "originalPrice": 625.00, "installments": { "months": 12, "amount": 43.75, "interestFree": true } }
+        },
+        "stock": 10 
+      }
+    ],
+    "highlightedFeatures": ["Cámara principal de 108 MP para fotos ultra nítidas.", "Carga turbo de 67W para no detenerte nunca."]
+  },
+  "4": {
+    "productInfo": { "condition": "Nuevo", "soldCount": 180, "rating": 4.8, "reviewsCount": 180 },
+    "variations": [
+      { "name": "Color", "attribute": "color" },
+      { "name": "Memoria RAM", "attribute": "ram" }
+    ],
+    "variants": [
+      { "id": 401, "attributes": { "color": "Volcanic Black", "ram": "12 GB" }, "title": "256 GB Volcanic Black 12 GB RAM", "imageIndex": 0, 
+        "pricing": {
+          "COP": { "price": 4800000, "originalPrice": 5200000, "installments": { "months": 6, "amount": 800000, "interestFree": false } },
+          "USD": { "price": 1200.00, "originalPrice": 1300.00, "installments": { "months": 6, "amount": 200.00, "interestFree": false } }
+        },
+        "stock": 22 
+      },
+      { "id": 402, "attributes": { "color": "Emerald Forest", "ram": "12 GB" }, "title": "256 GB Emerald Forest 12 GB RAM", "imageIndex": 0, 
+        "pricing": {
+          "COP": { "price": 4800000, "originalPrice": 5200000, "installments": { "months": 6, "amount": 800000, "interestFree": false } },
+          "USD": { "price": 1200.00, "originalPrice": 1300.00, "installments": { "months": 6, "amount": 200.00, "interestFree": false } }
+        },
+        "stock": 18 
+      },
+      { "id": 403, "attributes": { "color": "Volcanic Black", "ram": "16 GB" }, "title": "512 GB Volcanic Black 16 GB RAM", "imageIndex": 0, 
+        "pricing": {
+          "COP": { "price": 5500000, "originalPrice": 6000000, "installments": { "months": 6, "amount": 916667, "interestFree": false } },
+          "USD": { "price": 1375.00, "originalPrice": 1500.00, "installments": { "months": 6, "amount": 229.17, "interestFree": false } }
+        },
+        "stock": 5 
+      }
+    ],
+    "highlightedFeatures": ["Rendimiento extremo con Snapdragon 8 Gen 4.", "Carga de 0 a 100% en menos de 25 minutos."]
+  },
+  "5": {
+    "productInfo": { "condition": "Nuevo", "soldCount": 250, "rating": 4.9, "reviewsCount": 250 },
+    "variations": [
+      { "name": "Color", "attribute": "color" },
+      { "name": "Almacenamiento", "attribute": "storage" }
+    ],
+    "variants": [
+      { "id": 501, "attributes": { "color": "Obsidian", "storage": "128 GB" }, "title": "128 GB Obsidian", "imageIndex": 0, 
+        "pricing": {
+          "COP": { "price": 5100000, "originalPrice": 5500000, "installments": { "months": 12, "amount": 425000, "interestFree": true } },
+          "USD": { "price": 1275.00, "originalPrice": 1375.00, "installments": { "months": 12, "amount": 106.25, "interestFree": true } }
+        },
+        "stock": 40 
+      },
+      { "id": 502, "attributes": { "color": "Porcelain", "storage": "128 GB" }, "title": "128 GB Porcelain", "imageIndex": 0, 
+        "pricing": {
+          "COP": { "price": 5100000, "originalPrice": 5500000, "installments": { "months": 12, "amount": 425000, "interestFree": true } },
+          "USD": { "price": 1275.00, "originalPrice": 1375.00, "installments": { "months": 12, "amount": 106.25, "interestFree": true } }
+        },
+        "stock": 30 
+      },
+      { "id": 503, "attributes": { "color": "Bay", "storage": "256 GB" }, "title": "256 GB Bay", "imageIndex": 0, 
+        "pricing": {
+          "COP": { "price": 5800000, "originalPrice": 6200000, "installments": { "months": 12, "amount": 483333, "interestFree": true } },
+          "USD": { "price": 1450.00, "originalPrice": 1550.00, "installments": { "months": 12, "amount": 120.83, "interestFree": true } }
+        },
+        "stock": 15 
+      }
+    ],
+    "highlightedFeatures": ["La magia de la IA de Google en tu mano.", "Fotografía computacional que crea imágenes perfectas."]
+  },
+  "6": {
+    "productInfo": { "condition": "Nuevo", "soldCount": 150, "rating": 4.6, "reviewsCount": 150 },
+    "variations": [
+      { "name": "Color", "attribute": "color" }
+    ],
+    "variants": [
+      { "id": 601, "attributes": { "color": "White" }, "title": "256 GB White", "imageIndex": 0, 
+        "pricing": {
+          "COP": { "price": 3200000, "originalPrice": 3500000, "installments": { "months": 6, "amount": 533333, "interestFree": true } },
+          "USD": { "price": 800.00, "originalPrice": 875.00, "installments": { "months": 6, "amount": 133.33, "interestFree": true } }
+        },
+        "stock": 1 
+      },
+      { "id": 602, "attributes": { "color": "Black" }, "title": "256 GB Black", "imageIndex": 1, 
+        "pricing": {
+          "COP": { "price": 3200000, "originalPrice": 3500000, "installments": { "months": 6, "amount": 533333, "interestFree": true } },
+          "USD": { "price": 800.00, "originalPrice": 875.00, "installments": { "months": 6, "amount": 133.33, "interestFree": true } }
+        },
+        "stock": 0 
+      }
+    ],
+    "highlightedFeatures": ["Diseño transparente y única Interfaz Glyph.", "Nothing OS: una experiencia rápida, fluida y sin bloatware."]
+  }
+}

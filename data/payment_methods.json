@@ -1,0 +1,93 @@
+
+{
+  "1": {
+    "credit": [
+      { "name": "Visa", "url": "https://http2.mlstatic.com/storage/logos-api-admin/a5f047d0-9be0-11ec-aad4-c3381f368aaf-m.svg" },
+      { "name": "Mastercard", "url": "https://http2.mlstatic.com/storage/logos-api-admin/aa2b8f70-5c85-11ec-ae75-df2bef173be2-m.svg" },
+      { "name": "Bancolombia", "url": "https://http2.mlstatic.com/storage/logos-api-admin/9d1cd6a0-f39d-11eb-826e-6db365b9e0dd-m.svg" },
+      { "name": "Davivienda", "url": "https://http2.mlstatic.com/storage/logos-api-admin/f522aed0-57b8-11e8-96f5-d579103d96f3-m.svg" }
+    ],
+    "debit": [
+      { "name": "Visa Débito", "url": "https://http2.mlstatic.com/storage/logos-api-admin/312238e0-571b-11e8-823a-758d95db88db-m.svg" }
+    ],
+    "cash": [
+      { "name": "Efecty", "url": "https://http2.mlstatic.com/storage/logos-api-admin/e5ee1d00-f39b-11eb-8e0d-6f4af49bf82e-m.svg" },
+      { "name": "PSE", "url": "https://http2.mlstatic.com/storage/logos-api-admin/254f9960-57b9-11e8-a82b-59483d0f8e12-m.svg" }
+    ]
+  },
+  "2": {
+    "credit": [
+      { "name": "Visa", "url": "https://http2.mlstatic.com/storage/logos-api-admin/a5f047d0-9be0-11ec-aad4-c3381f368aaf-m.svg" },
+      { "name": "American Express", "url": "https://http2.mlstatic.com/storage/logos-api-admin/b2c93a40-f3be-11eb-9984-b7076edb0bb7-m.svg" },
+      { "name": "Nu", "url": "https://http2.mlstatic.com/storage/logos-api-admin/e3fb1ae0-4093-11f0-8910-a9d9b65c551b-m.svg" },
+      { "name": "Rappicard", "url": "https://http2.mlstatic.com/storage/logos-api-admin/93a46070-bb82-11ee-9708-5d7dae9637cf-m.svg" }
+    ],
+    "debit": [
+      { "name": "Mastercard Débito", "url": "https://http2.mlstatic.com/storage/logos-api-admin/157dce60-571b-11e8-95d8-631c1a9a92a9-m.svg" }
+    ],
+    "cash": [
+      { "name": "PSE", "url": "https://http2.mlstatic.com/storage/logos-api-admin/254f9960-57b9-11e8-a82b-59483d0f8e12-m.svg" }
+    ]
+  },
+  "3": {
+    "credit": [
+      { "name": "Mastercard", "url": "https://http2.mlstatic.com/storage/logos-api-admin/aa2b8f70-5c85-11ec-ae75-df2bef173be2-m.svg" },
+      { "name": "Banco BBVA", "url": "https://http2.mlstatic.com/storage/logos-api-admin/dd202b00-f486-11eb-9984-b7076edb0bb7-m.svg" },
+      { "name": "Banco Popular", "url": "https://http2.mlstatic.com/storage/logos-api-admin/59763ea0-5361-11f0-8f5b-c317b1d29b3e-m.svg" },
+      { "name": "TUYA", "url": "https://http2.mlstatic.com/storage/logos-api-admin/70d542c0-4093-11f0-a4c4-7f6c49800a0e-m.svg" }
+    ],
+    "debit": [
+      { "name": "Visa Débito", "url": "https://http2.mlstatic.com/storage/logos-api-admin/312238e0-571b-11e8-823a-758d95db88db-m.svg" },
+      { "name": "Mastercard Débito", "url": "https://http2.mlstatic.com/storage/logos-api-admin/157dce60-571b-11e8-95d8-631c1a9a92a9-m.svg" }
+    ],
+    "cash": [
+      { "name": "Efecty", "url": "https://http2.mlstatic.com/storage/logos-api-admin/e5ee1d00-f39b-11eb-8e0d-6f4af49bf82e-m.svg" }
+    ]
+  },
+  "4": {
+    "credit": [
+      { "name": "Visa", "url": "https://http2.mlstatic.com/storage/logos-api-admin/a5f047d0-9be0-11ec-aad4-c3381f368aaf-m.svg" },
+      { "name": "Mastercard", "url": "https://http2.mlstatic.com/storage/logos-api-admin/aa2b8f70-5c85-11ec-ae75-df2bef173be2-m.svg" },
+      { "name": "Diners", "url": "https://http2.mlstatic.com/storage/logos-api-admin/751ea930-571a-11e8-9a2d-4b2bd7b1bf77-m.svg" },
+      { "name": "Scotiabank Colpatria", "url": "https://http2.mlstatic.com/storage/logos-api-admin/daa1bad0-aff3-11ee-aa6d-0bb283be7851-m.svg" },
+      { "name": "Nu", "url": "https://http2.mlstatic.com/storage/logos-api-admin/e3fb1ae0-4093-11f0-8910-a9d9b65c551b-m.svg" }
+    ],
+    "debit": [
+      { "name": "Visa Débito", "url": "https://http2.mlstatic.com/storage/logos-api-admin/312238e0-571b-11e8-823a-758d95db88db-m.svg" }
+    ],
+    "cash": [
+      { "name": "PSE", "url": "https://http2.mlstatic.com/storage/logos-api-admin/254f9960-57b9-11e8-a82b-59483d0f8e12-m.svg" }
+    ]
+  },
+  "5": {
+    "credit": [
+      { "name": "Visa", "url": "https://http2.mlstatic.com/storage/logos-api-admin/a5f047d0-9be0-11ec-aad4-c3381f368aaf-m.svg" },
+      { "name": "Mastercard", "url": "https://http2.mlstatic.com/storage/logos-api-admin/aa2b8f70-5c85-11ec-ae75-df2bef173be2-m.svg" },
+      { "name": "American Express", "url": "https://http2.mlstatic.com/storage/logos-api-admin/b2c93a40-f3be-11eb-9984-b7076edb0bb7-m.svg" },
+      { "name": "Banco de Occidente", "url": "https://http2.mlstatic.com/storage/logos-api-admin/a3e6a8f0-eb17-11eb-86b3-e38f66ccf30e-m.svg" },
+      { "name": "Itaú", "url": "https://http2.mlstatic.com/storage/logos-api-admin/dea09630-e001-11ef-87c0-d9b30b126819-m.svg" }
+    ],
+    "debit": [
+      { "name": "Mastercard Débito", "url": "https://http2.mlstatic.com/storage/logos-api-admin/157dce60-571b-11e8-95d8-631c1a9a92a9-m.svg" }
+    ],
+    "cash": [
+      { "name": "Efecty", "url": "https://http2.mlstatic.com/storage/logos-api-admin/e5ee1d00-f39b-11eb-8e0d-6f4af49bf82e-m.svg" },
+      { "name": "PSE", "url": "https://http2.mlstatic.com/storage/logos-api-admin/254f9960-57b9-11e8-a82b-59483d0f8e12-m.svg" }
+    ]
+  },
+  "6": {
+    "credit": [
+      { "name": "Mastercard", "url": "https://http2.mlstatic.com/storage/logos-api-admin/aa2b8f70-5c85-11ec-ae75-df2bef173be2-m.svg" },
+      { "name": "Rappicard", "url": "https://http2.mlstatic.com/storage/logos-api-admin/93a46070-bb82-11ee-9708-5d7dae9637cf-m.svg" },
+      { "name": "Nu", "url": "https://http2.mlstatic.com/storage/logos-api-admin/e3fb1ae0-4093-11f0-8910-a9d9b65c551b-m.svg" },
+      { "name": "Crédito Fácil Codensa", "url": "https://http2.mlstatic.com/storage/logos-api-admin/f1fc5b20-f39b-11eb-a186-1134488bf456-m.svg" }
+    ],
+    "debit": [
+      { "name": "Visa Débito", "url": "https://http2.mlstatic.com/storage/logos-api-admin/312238e0-571b-11e8-823a-758d95db88db-m.svg" },
+      { "name": "Mastercard Débito", "url": "https://http2.mlstatic.com/storage/logos-api-admin/157dce60-571b-11e8-95d8-631c1a9a92a9-m.svg" }
+    ],
+    "cash": [
+      { "name": "PSE", "url": "https://http2.mlstatic.com/storage/logos-api-admin/254f9960-57b9-11e8-a82b-59483d0f8e12-m.svg" }
+    ]
+  }
+}

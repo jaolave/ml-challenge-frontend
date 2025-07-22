@@ -1,0 +1,161 @@
+{
+  "1": {
+    "id": 1,
+    "title": "Samsung Galaxy S25 Ultra 5G Dual SIM",
+    "images": [
+      "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s24-ultra-5g-sm-s928-1.jpg",
+      "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s24-ultra-5g-sm-s928-2.jpg",
+      "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s24-ultra-5g-sm-s928-3.jpg",
+      "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s24-ultra-5g-sm-s928-4.jpg"
+    ],
+    "breadcrumbs": {
+      "path": [
+        { "name": "Celulares y Teléfonos", "href": "#" },
+        { "name": "Celulares y Smartphones", "href": "#" }
+      ]
+    },
+    "benefits": [
+      { "icon": "return", "html": "<a href=\"#\" class=\"text-blue-500 hover:text-blue-600\">Devolución gratis.</a> Tienes 30 días desde que lo recibes." },
+      { "icon": "shield", "html": "<a href=\"#\" class=\"text-blue-500 hover:text-blue-600\">Compra Protegida</a>, recibe el producto que esperabas o te devolvemos tu dinero." },
+      { "icon": "shield", "html": "12 meses de garantía de fábrica."}
+    ],
+    "shipping": {
+        "free": true,
+        "timeline": "mañana",
+        "deadline": "24 horas",
+        "moreOptionsUrl": "#"
+    },
+    "pickup": {
+        "free": true,
+        "timeline": "a partir de mañana",
+        "location": "en una agencia de Mercado Libre",
+        "mapUrl": "#"
+    },
+    "description": "Potencia y rendimiento excepcionales\nEl Samsung Galaxy S25 Ultra cuenta con un procesador Snapdragon 8 Elite y 12 GB de RAM, ofreciendo un rendimiento superior para multitareas y aplicaciones exigentes sin retrasos. Su pantalla Dynamic AMOLED 2X de 6.9 pulgadas con 120 Hz asegura una experiencia visual fluida y vibrante.\n\nFotografía de nivel profesional\nCon un sistema de cámaras avanzado, incluye un sensor principal de 200 MP, ultra gran angular de 50 MP y teleobjetivos de 50 MP y 10 MP, además de una cámara frontal de 12 MP. Almacena todo con su memoria interna de 256 GB y disfruta de una batería de 5000 mAh con carga rápida de 45W.",
+    "specs": {
+      "highlighted": [
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/internal_memory.svg", "name": "Memoria interna:", "value": "256 GB" },
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/resolution_front_camera.svg", "name": "Cámara frontal principal:", "value": "12 Mpx" },
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/resolution_rear_camera.svg", "name": "Cámara trasera principal:", "value": "200 Mpx" },
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/fingerprint.svg", "name": "Desbloqueo:", "value": "Huella dactilar y facial" },
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/nfc.svg", "name": "Con NFC:", "value": "Sí" }
+      ],
+      "featureGroups": [
+        { "title": "Características generales", "items": [{ "name": "Marca", "value": "Samsung" }, { "name": "Línea", "value": "Galaxy S" }, { "name": "Modelo", "value": "S25 Ultra" }] },
+        { "title": "Memoria", "items": [{ "name": "Memoria interna", "value": "256 GB" }, { "name": "Memoria RAM", "value": "12 GB" }] }
+      ]
+    }
+  },
+  "2": {
+    "id": 2,
+    "title": "Apple iPhone 16 Pro Max",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch-naturaltitanium?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692845699492",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch-bluetitanium?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692845699292"
+    ],
+    "breadcrumbs": { "path": [ { "name": "Celulares y Teléfonos", "href": "#" }, { "name": "Celulares y Smartphones", "href": "#" } ] },
+    "benefits": [
+      { "icon": "return", "html": "<a href=\"#\" class=\"text-blue-500 hover:text-blue-600\">Devolución gratis.</a> Tienes 30 días." },
+      { "icon": "shield", "html": "<a href=\"#\" class=\"text-blue-500 hover:text-blue-600\">Compra Protegida</a> con Mercado Pago." }
+    ],
+    "shipping": { "free": true, "timeline": "mañana", "deadline": "12 horas", "moreOptionsUrl": "#" },
+    "pickup": { "free": true, "timeline": "a partir de mañana", "location": "en una Apple Store", "mapUrl": "#" },
+    "description": "Experimenta el futuro con el iPhone 16 Pro Max. Equipado con el revolucionario chip A18 Bionic, su rendimiento redefine la velocidad. La pantalla Super Retina XDR con ProMotion es más brillante y fluida que nunca. El sistema de cámaras Pro, con un sensor principal de 48 MP y el nuevo Botón de Captura, te permite tomar fotos y videos con una calidad cinematográfica asombrosa. Todo en un diseño robusto y elegante de titanio aeroespacial.",
+    "specs": {
+      "highlighted": [
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/chipset.svg", "name": "Procesador:", "value": "Apple A18 Bionic" },
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/display_size.svg", "name": "Pantalla:", "value": "Super Retina XDR 6.9\"" }
+      ], "featureGroups": [ { "title": "Características generales", "items": [{ "name": "Marca", "value": "Apple" }, { "name": "Línea", "value": "iPhone" }, { "name": "Modelo", "value": "16 Pro Max" }] }]
+    }
+  },
+  "3": {
+    "id": 3,
+    "title": "Xiaomi Redmi Note 14 Pro 5G",
+    "images": [
+      "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-pro-5g-1.jpg",
+      "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-pro-5g-2.jpg"
+    ],
+    "breadcrumbs": { "path": [ { "name": "Celulares y Teléfonos", "href": "#" }, { "name": "Celulares y Smartphones", "href": "#" } ] },
+    "benefits": [
+      { "icon": "return", "html": "<a href=\"#\">Devolución gratis.</a> Tienes 30 días." },
+      { "icon": "shield", "html": "<a href=\"#\">Compra Protegida</a>, recibe el producto que esperabas." }
+    ],
+    "shipping": { "free": true, "timeline": "en 2 días", "deadline": "8 horas", "moreOptionsUrl": "#" },
+    "pickup": { "free": true, "timeline": "a partir de mañana", "location": "en un punto de entrega", "mapUrl": "#" },
+    "description": "El Xiaomi Redmi Note 14 Pro redefine la gama media con características de flagship. Su cámara principal de 108 MP captura detalles impresionantes, mientras que la pantalla AMOLED de 120 Hz ofrece colores vibrantes y una fluidez increíble. Con una batería masiva de 5100 mAh y carga turbo de 67W, nunca te quedarás sin energía. Potenciado por el Snapdragon 7s Gen 2, es perfecto para juegos y multitarea.",
+    "specs": {
+      "highlighted": [
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/resolution_rear_camera.svg", "name": "Cámara principal:", "value": "108 Mpx" },
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/battery_capacity.svg", "name": "Batería:", "value": "5100 mAh" },
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/display_refresh_rate.svg", "name": "Tasa de refresco:", "value": "120 Hz" }
+      ], "featureGroups": [ { "title": "Características generales", "items": [{ "name": "Marca", "value": "Xiaomi" }, { "name": "Línea", "value": "Redmi Note" }, { "name": "Modelo", "value": "14 Pro" }] }]
+    }
+  },
+  "4": {
+    "id": 4,
+    "title": "OnePlus 13 5G Global Version",
+    "images": [
+      "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-12-1.jpg"
+    ],
+    "breadcrumbs": { "path": [ { "name": "Celulares y Teléfonos", "href": "#" }, { "name": "Celulares y Smartphones", "href": "#" } ] },
+    "benefits": [
+      { "icon": "return", "html": "Devolución gratis durante 15 días." },
+      { "icon": "shield", "html": "<a href=\"#\">Compra Protegida</a> internacional." }
+    ],
+    "shipping": { "free": true, "timeline": "mañana", "deadline": null, "moreOptionsUrl": "#" },
+    "pickup": { "free": false, "timeline": null, "location": null, "mapUrl": null },
+    "description": "Velocidad en su máxima expresión. El OnePlus 13 llega con el último procesador Snapdragon 8 Gen 4 y hasta 16 GB de RAM para un rendimiento que supera todas las expectativas. Su pantalla Fluid AMOLED 2K con 120Hz y la calibración de color de Hasselblad en sus cámaras te darán una experiencia visual sin precedentes. Además, con la carga SUPERVOOC de 100W, pasa de 0 a 100% en menos de 25 minutos. OxygenOS 15, basado en Android 15, es limpio, rápido y personalizable.",
+    "specs": {
+      "highlighted": [
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/chipset.svg", "name": "Procesador:", "value": "Snapdragon 8 Gen 4" },
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/charging_type.svg", "name": "Carga rápida:", "value": "100W SUPERVOOC" },
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/brand_rear_camera.svg", "name": "Cámara:", "value": "Hasselblad" }
+      ], "featureGroups": [ { "title": "Características generales", "items": [{ "name": "Marca", "value": "OnePlus" }, { "name": "Modelo", "value": "13" }] }]
+    }
+  },
+  "5": {
+    "id": 5,
+    "title": "Google Pixel 9 Pro XL",
+    "images": [
+      "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-8-pro-1.jpg"
+    ],
+    "breadcrumbs": { "path": [ { "name": "Celulares y Teléfonos", "href": "#" }, { "name": "Celulares y Smartphones", "href": "#" } ] },
+    "benefits": [
+      { "icon": "return", "html": "<a href=\"#\">Devolución gratis.</a> Tienes 30 días." },
+      { "icon": "shield", "html": "<a href=\"#\">Compra Protegida</a> y garantía de Google." }
+    ],
+    "shipping": { "free": true, "timeline": "mañana", "deadline": "10 horas", "moreOptionsUrl": "#" },
+    "pickup": { "free": true, "timeline": "a partir de mañana", "location": "en una agencia", "mapUrl": "#" },
+    "description": "El teléfono más inteligente, ahora más potente. El Google Pixel 9 Pro XL está diseñado por Google con el chip Tensor G4, que lleva la inteligencia artificial a tu bolsillo. La cámara no solo toma fotos, las perfecciona con herramientas de edición mágicas. Disfruta de la experiencia Android más pura y recibe actualizaciones el día de su lanzamiento. Su pantalla Super Actua es la más brillante en un Pixel hasta la fecha y su diseño pulido es tan premium como funcional.",
+    "specs": {
+      "highlighted": [
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/chipset.svg", "name": "Procesador:", "value": "Google Tensor G4" },
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/resolution_rear_camera.svg", "name": "Fotografía:", "value": "Computacional" },
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/os_name.svg", "name": "Sistema Operativo:", "value": "Android 15 Puro" }
+      ], "featureGroups": [ { "title": "Características generales", "items": [{ "name": "Marca", "value": "Google" }, { "name": "Línea", "value": "Pixel" }, { "name": "Modelo", "value": "9 Pro XL" }] }]
+    }
+  },
+  "6": {
+    "id": 6,
+    "title": "Nothing Phone (3) with Glyph Interface",
+    "images": [
+      "https://fdn2.gsmarena.com/vv/pics/nothing/nothing-phone2-1.jpg",
+      "https://fdn2.gsmarena.com/vv/pics/nothing/nothing-phone2-2.jpg"
+    ],
+    "breadcrumbs": { "path": [ { "name": "Celulares y Teléfonos", "href": "#" }, { "name": "Celulares y Smartphones", "href": "#" } ] },
+    "benefits": [
+      { "icon": "return", "html": "<a href=\"#\">Devolución gratis.</a> Tienes 30 días." },
+      { "icon": "shield", "html": "<a href=\"#\">Compra Protegida</a>." }
+    ],
+    "shipping": { "free": true, "timeline": "en 3 días", "deadline": "18 horas", "moreOptionsUrl": "#" },
+    "pickup": { "free": true, "timeline": "a partir de mañana", "location": "en un punto de entrega", "mapUrl": "#" },
+    "description": "Menos distracciones. Más alma. El Nothing Phone (3) refina su icónico diseño con una Interfaz Glyph más inteligente y funcional. Nothing OS 3.0 ofrece una experiencia Android increíblemente rápida y fluida, libre de bloatware y con una estética monocromática única. Su doble cámara de 50 MP y una impresionante pantalla OLED flexible lo convierten en una opción poderosa y equilibrada para quienes buscan algo diferente. Un teléfono que te hace disfrutar de la tecnología de nuevo.",
+    "specs": {
+      "highlighted": [
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/fingerprint.svg", "name": "Diseño:", "value": "Interfaz Glyph" },
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/os_name.svg", "name": "Sistema Operativo:", "value": "Nothing OS 3.0" },
+        { "icon": "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/resolution_rear_camera.svg", "name": "Cámara dual:", "value": "50 MP" }
+      ], "featureGroups": [ { "title": "Características generales", "items": [{ "name": "Marca", "value": "Nothing" }, { "name": "Modelo", "value": "Phone (3)" }] }]
+    }
+  }
+}

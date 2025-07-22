@@ -1,0 +1,39 @@
+
+{
+  "1": [
+    { "id": 101, "question": "¿La S Pen viene incluida con el Galaxy S25 Ultra?", "answer": "Sí, el S Pen viene incluido en el cuerpo del dispositivo, listo para usarse." },
+    { "id": 102, "question": "¿Es resistente al agua?", "answer": "Sí, cuenta con certificación IP68, lo que lo hace resistente al agua y al polvo." },
+    { "id": 103, "question": "¿Soporta el modo DeX para usarlo como una computadora de escritorio?", "answer": "¡Claro! El Galaxy S25 Ultra es totalmente compatible con Samsung DeX. Puedes conectarlo a un monitor o TV de forma inalámbrica o con un cable para tener una experiencia de escritorio completa." },
+    { "id": 104, "question": "¿Qué tan rápido carga la batería?", "answer": "Admite carga súper rápida de 45W, lo que te permite cargar un gran porcentaje de la batería en solo 30 minutos. Ten en cuenta que el cargador de 45W se vende por separado." }
+  ],
+  "2": [
+    { "id": 201, "question": "¿El cargador viene en la caja del iPhone 16 Pro Max?", "answer": "No, el cargador se vende por separado. La caja incluye el teléfono y un cable de carga USB-C." },
+    { "id": 202, "question": "¿El titanio se raya fácilmente?", "answer": "El titanio de grado aeroespacial es muy resistente a los arañazos y a la corrosión, más que el acero inoxidable de modelos anteriores." },
+    { "id": 203, "question": "¿Es compatible con los accesorios MagSafe de años anteriores?", "answer": "Sí, el iPhone 16 Pro Max es totalmente compatible con todo el ecosistema de cargadores, carteras y otros accesorios MagSafe existentes." },
+    { "id": 204, "question": "¿Qué tal es la calidad de grabación de video?", "answer": "Es de calidad cinematográfica. Puedes grabar en formato ProRes directamente a un disco externo, y el nuevo modo cinemático con enfoque dinámico te da resultados profesionales." }
+  ],
+  "3": [
+    { "id": 301, "question": "¿Se le puede expandir la memoria con una tarjeta SD?", "answer": "No, el Redmi Note 14 Pro no cuenta con una ranura para tarjeta microSD, pero su versión de 256 GB ofrece amplio espacio." },
+    { "id": 302, "question": "¿Tiene conector para audífonos de 3.5mm?", "answer": "Sí, este modelo conserva el jack de 3.5mm para que puedas usar tus audífonos con cable sin necesidad de un adaptador." },
+    { "id": 303, "question": "¿El teléfono viene con funda y protector de pantalla incluidos?", "answer": "Sí, Xiaomi suele incluir una funda de silicona transparente y un protector de pantalla pre-aplicado en la caja, lo cual es un gran detalle." },
+    { "id": 304, "question": "¿Es Dual SIM?", "answer": "Sí, cuenta con una bandeja para dos tarjetas Nano-SIM, por lo que puedes usar dos líneas telefónicas al mismo tiempo." }
+  ],
+  "4": [
+    { "id": 401, "question": "¿Qué es el Alert Slider del OnePlus 13?", "answer": "El Alert Slider es un interruptor físico en el lateral del teléfono que te permite cambiar fácilmente entre los modos de sonido, vibración y silencio sin tener que desbloquear la pantalla." },
+    { "id": 402, "question": "¿La carga de 100W afecta la vida útil de la batería?", "answer": "OnePlus utiliza tecnologías avanzadas de gestión de batería para garantizar que la carga ultrarrápida no degrade la salud de la batería a largo plazo. Está diseñado para mantener al menos el 80% de su capacidad después de muchos ciclos de carga." },
+    { "id": 403, "question": "¿Cuántos años de actualizaciones de Android y de seguridad promete OnePlus?", "answer": "Generalmente, OnePlus ofrece 4 grandes actualizaciones de Android y 5 años de parches de seguridad para sus modelos insignia, lo que garantiza una larga vida útil del software." },
+    { "id": 404, "question": "¿La versión global funciona con todas las redes de Latinoamérica?", "answer": "Sí, la versión global está diseñada para ser compatible con la gran mayoría de las bandas 4G y 5G utilizadas por los operadores en toda Latinoamérica." }
+  ],
+  "5": [
+    { "id": 501, "question": "¿Qué tan bueno es el zoom de la cámara del Pixel 9 Pro XL?", "answer": "Es excepcional. Gracias a su teleobjetivo y al Super Res Zoom basado en IA, puedes conseguir fotos nítidas y detalladas incluso a largas distancias." },
+    { "id": 502, "question": "¿Recibiré las nuevas versiones de Android de inmediato?", "answer": "¡Sí! Una de las mayores ventajas de los teléfonos Pixel es que reciben las actualizaciones del sistema operativo Android directamente de Google el día de su lanzamiento." },
+    { "id": 503, "question": "¿El chip Tensor G4 es bueno para juegos?", "answer": "Sí, aunque el chip Tensor está optimizado para tareas de inteligencia artificial, también ofrece un excelente rendimiento en juegos, corriendo la mayoría de los títulos exigentes con gran fluidez." },
+    { "id": 504, "question": "¿Qué es el 'Filtro de llamadas'?", "answer": "Es una función exclusiva de los Pixel donde el Asistente de Google puede contestar llamadas de números desconocidos por ti, transcribir la conversación en tiempo real y permitirte decidir si quieres contestar o no. ¡Es genial para evitar spam!" }
+  ],
+  "6": [
+    { "id": 601, "question": "¿Las luces de la Interfaz Glyph son solo decorativas?", "answer": "No, son funcionales. Puedes personalizarlas para que se iluminen de diferentes maneras según quién te llame, las notificaciones de apps específicas, y también funcionan como indicador de progreso de carga." },
+    { "id": 602, "question": "¿Nothing OS tiene mucha personalización o es como Android Puro?", "answer": "Nothing OS se basa en Android Puro para ser rápido y fluido, pero añade una capa de personalización estética única con sus propios widgets y tipografía, manteniendo una experiencia libre de bloatware." },
+    { "id": 603, "question": "¿El teléfono tiene carga inalámbrica?", "answer": "Sí, el Nothing Phone (3) cuenta con carga inalámbrica y también con carga inalámbrica inversa, por lo que puedes cargar otros dispositivos compatibles, como auriculares, en su parte trasera." },
+    { "id": 604, "question": "¿Se puede apagar completamente la Interfaz Glyph si no me gusta?", "answer": "¡Por supuesto! Puedes desactivar por completo la Interfaz Glyph desde los ajustes del sistema si prefieres una experiencia más tradicional y ahorrar algo de batería." }
+  ]
+}

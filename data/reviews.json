@@ -1,0 +1,100 @@
+
+{
+  "1": {
+    "averageRating": 4.8,
+    "totalReviews": 220,
+    "ratingDistribution": [ { "stars": 5, "percentage": "85%" }, { "stars": 4, "percentage": "10%" }, { "stars": 3, "percentage": "3%" }, { "stars": 2, "percentage": "1%" }, { "stars": 1, "percentage": "1%" } ],
+    "featureRatings": [ { "name": "Relación precio-calidad", "rating": 4.5 }, { "name": "Calidad de la cámara", "rating": 4.9 }, { "name": "Duración de la batería", "rating": 4.6 }, { "name": "Durabilidad", "rating": 4.8 } ],
+    "reviewPhotos": [ "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Samsung_Galaxy_S24_Ultra_Titanium_Gray_S-Pen.jpg/1024px-Samsung_Galaxy_S24_Ultra_Titanium_Gray_S-Pen.jpg", "https://cdn.dxomark.com/wp-content/uploads/medias/post-169824/Samsung-Galaxy-S24-Ultra_photo-2-1.jpg" ],
+    "aiSummary": "El Galaxy S25 Ultra destaca por su rendimiento excepcional, pantalla de alta calidad y un sistema de cámaras sobresaliente. Algunos usuarios mencionan que la batería podría mejorar ligeramente.",
+    "reviews": [
+      { "id": 1, "rating": 5, "date": "15 mar. 2025", "isFromOfficialStore": true, "content": "Increíble teléfono, la pantalla y la cámara son espectaculares.", "likes": 30, "photos": [] },
+      { "id": 2, "rating": 4, "date": "20 mar. 2025", "isFromOfficialStore": false, "content": "Gran equipo, aunque la batería no es tan revolucionaria como esperaba.", "likes": 15, "photos": [] },
+      { "id": 3, "rating": 5, "date": "22 mar. 2025", "isFromOfficialStore": true, "content": "El rendimiento es una locura. Corre todos los juegos al máximo sin problemas.", "likes": 45, "photos": [] },
+      { "id": 4, "rating": 5, "date": "25 mar. 2025", "isFromOfficialStore": true, "content": "El S-Pen es más útil de lo que imaginaba. Lo uso todos los días para tomar notas rápidas.", "likes": 28, "photos": [] },
+      { "id": 5, "rating": 4, "date": "28 mar. 2025", "isFromOfficialStore": false, "content": "La calidad de las fotos con zoom es impresionante. Se nota la mejora en los teleobjetivos.", "likes": 22, "photos": [] },
+      { "id": 6, "rating": 3, "date": "30 mar. 2025", "isFromOfficialStore": false, "content": "Es un teléfono muy grande y pesado, cuesta acostumbrarse a manejarlo con una mano.", "likes": 10, "photos": [] },
+      { "id": 7, "rating": 5, "date": "02 abr. 2025", "isFromOfficialStore": true, "content": "La mejor pantalla que he visto en un smartphone. Los colores son vibrantes y el brillo es excelente al aire libre.", "likes": 35, "photos": [] }
+    ]
+  },
+  "2": {
+    "averageRating": 4.9,
+    "totalReviews": 355,
+    "ratingDistribution": [ { "stars": 5, "percentage": "92%" }, { "stars": 4, "percentage": "6%" }, { "stars": 3, "percentage": "1%" }, { "stars": 2, "percentage": "0%" }, { "stars": 1, "percentage": "1%" } ],
+    "featureRatings": [ { "name": "Relación precio-calidad", "rating": 4.6 }, { "name": "Calidad de la cámara", "rating": 4.9 }, { "name": "Duración de la batería", "rating": 4.8 }, { "name": "Diseño", "rating": 4.9 } ],
+    "reviewPhotos": [],
+    "aiSummary": "Los usuarios aclaman el iPhone 16 Pro Max por su velocidad inigualable y la calidad de su cámara, que califican como la mejor del mercado. El diseño de titanio y la duración de la batería también reciben altas calificaciones.",
+    "reviews": [
+      { "id": 201, "rating": 5, "date": "18 abr. 2025", "isFromOfficialStore": true, "content": "Simplemente el mejor teléfono que he tenido. La cámara es de otro planeta.", "likes": 55, "photos": [] },
+      { "id": 202, "rating": 5, "date": "19 abr. 2025", "isFromOfficialStore": true, "content": "El rendimiento es espectacular y la batería dura todo el día sin problemas. Vale cada peso.", "likes": 42, "photos": [] },
+      { "id": 203, "rating": 4, "date": "20 abr. 2025", "isFromOfficialStore": false, "content": "Es increíble, pero el precio sigue siendo muy elevado. La transferencia a USB-C es un gran acierto.", "likes": 25, "photos": [] },
+      { "id": 204, "rating": 5, "date": "22 abr. 2025", "isFromOfficialStore": true, "content": "El Botón de Captura es una adición fantástica para los que amamos la fotografía. Muy intuitivo.", "likes": 33, "photos": [] },
+      { "id": 205, "rating": 5, "date": "25 abr. 2025", "isFromOfficialStore": false, "content": "La fluidez de la pantalla ProMotion es algo que tienes que experimentar. Todo se siente instantáneo.", "likes": 28, "photos": [] },
+      { "id": 206, "rating": 4, "date": "28 abr. 2025", "isFromOfficialStore": true, "content": "La integración con mi MacBook y Apple Watch es perfecta. El ecosistema es la razón principal por la que me quedo con Apple.", "likes": 38, "photos": [] }
+    ]
+  },
+  "3": {
+    "averageRating": 4.7,
+    "totalReviews": 462,
+    "ratingDistribution": [ { "stars": 5, "percentage": "80%" }, { "stars": 4, "percentage": "15%" }, { "stars": 3, "percentage": "3%" }, { "stars": 2, "percentage": "1%" }, { "stars": 1, "percentage": "1%" } ],
+    "featureRatings": [ { "name": "Relación precio-calidad", "rating": 4.9 }, { "name": "Calidad de la cámara", "rating": 4.5 }, { "name": "Duración de la batería", "rating": 4.8 }, { "name": "Pantalla", "rating": 4.7 } ],
+    "reviewPhotos": [],
+    "aiSummary": "La comunidad coincide en que el Redmi Note 14 Pro ofrece un valor insuperable. La duración de la batería y la velocidad de carga son sus puntos más fuertes. La cámara es muy buena para su rango de precio, aunque el software MIUI recibe algunas críticas menores.",
+    "reviews": [
+      { "id": 301, "rating": 5, "date": "10 may. 2025", "isFromOfficialStore": true, "content": "Impresionante. La batería dura dos días y carga en media hora. La pantalla es una gozada.", "likes": 60, "photos": [] },
+      { "id": 302, "rating": 5, "date": "11 may. 2025", "isFromOfficialStore": false, "content": "No se puede pedir más por este precio. Cumple en todo.", "likes": 45, "photos": [] },
+      { "id": 303, "rating": 4, "date": "12 may. 2025", "isFromOfficialStore": false, "content": "Buen teléfono, pero MIUI tiene demasiada publicidad. Tuve que deshabilitarla manualmente.", "likes": 20, "photos": [] },
+      { "id": 304, "rating": 5, "date": "14 may. 2025", "isFromOfficialStore": true, "content": "El rendimiento en juegos es sorprendentemente bueno para un gama media. No se calienta mucho.", "likes": 31, "photos": [] },
+      { "id": 305, "rating": 4, "date": "16 may. 2025", "isFromOfficialStore": false, "content": "La cámara de 108 MP saca fotos muy detalladas con buena luz, pero de noche le cuesta un poco más.", "likes": 18, "photos": [] },
+      { "id": 306, "rating": 5, "date": "18 may. 2025", "isFromOfficialStore": true, "content": "Que todavía incluya el jack de audífonos es un puntazo a favor. ¡Gracias Xiaomi!", "likes": 40, "photos": [] }
+    ]
+  },
+  "4": {
+    "averageRating": 4.8,
+    "totalReviews": 191,
+    "ratingDistribution": [ { "stars": 5, "percentage": "88%" }, { "stars": 4, "percentage": "9%" }, { "stars": 3, "percentage": "2%" }, { "stars": 2, "percentage": "1%" }, { "stars": 1, "percentage": "0%" } ],
+    "featureRatings": [ { "name": "Rendimiento", "rating": 5 }, { "name": "Velocidad de carga", "rating": 5 }, { "name": "Software", "rating": 4.8 }, { "name": "Cámara", "rating": 4.6 } ],
+    "reviewPhotos": [],
+    "aiSummary": "Los usuarios están fascinados con la velocidad del OnePlus 13, tanto en rendimiento general como en carga. El software limpio (OxygenOS) es un gran punto a favor. La cámara es muy buena, aunque algunos puristas la encuentran un escalón por debajo de la competencia más cara.",
+    "reviews": [
+      { "id": 401, "rating": 5, "date": "01 jun. 2025", "isFromOfficialStore": false, "content": "Este teléfono vuela. Es lo más rápido que he probado. Y la carga es una locura.", "likes": 40, "photos": [] },
+      { "id": 402, "rating": 5, "date": "02 jun. 2025", "isFromOfficialStore": true, "content": "Me encanta OxygenOS, es Android como debería ser. El alert slider es súper útil.", "likes": 35, "photos": [] },
+      { "id": 403, "rating": 4, "date": "03 jun. 2025", "isFromOfficialStore": false, "content": "Gran teléfono, pero la cámara podría ser un poco mejor en condiciones de poca luz. Por lo demás, perfecto.", "likes": 18, "photos": [] },
+      { "id": 404, "rating": 5, "date": "05 jun. 2025", "isFromOfficialStore": true, "content": "La pantalla es una maravilla, muy brillante y con colores precisos. Ideal para ver contenido multimedia.", "likes": 29, "photos": [] },
+      { "id": 405, "rating": 5, "date": "07 jun. 2025", "isFromOfficialStore": false, "content": "El diseño es elegante y se siente muy premium en la mano. La colaboración con Hasselblad se nota en el procesado de color de las fotos.", "likes": 25, "photos": [] }
+    ]
+  },
+  "5": {
+    "averageRating": 4.9,
+    "totalReviews": 265,
+    "ratingDistribution": [ { "stars": 5, "percentage": "90%" }, { "stars": 4, "percentage": "8%" }, { "stars": 3, "percentage": "2%" }, { "stars": 2, "percentage": "0%" }, { "stars": 1, "percentage": "0%" } ],
+    "featureRatings": [ { "name": "Calidad de la cámara", "rating": 5 }, { "name": "Software y IA", "rating": 5 }, { "name": "Experiencia de usuario", "rating": 4.9 }, { "name": "Batería", "rating": 4.5 } ],
+    "reviewPhotos": [],
+    "aiSummary": "El Pixel 9 Pro XL es aclamado universalmente por su cámara y sus funciones de IA, consideradas mágicas por muchos. La experiencia de Android puro es un deleite para los entusiastas. El único punto de mejora recurrente es la duración de la batería, que es buena pero no líder en su clase.",
+    "reviews": [
+      { "id": 501, "rating": 5, "date": "15 jun. 2025", "isFromOfficialStore": true, "content": "La cámara es brujería. Saca fotos increíbles sin esfuerzo. El Android puro es una delicia.", "likes": 52, "photos": [] },
+      { "id": 502, "rating": 5, "date": "16 jun. 2025", "isFromOfficialStore": false, "content": "Las funciones de IA son realmente útiles en el día a día. El teléfono es súper fluido.", "likes": 41, "photos": [] },
+      { "id": 503, "rating": 4, "date": "17 jun. 2025", "isFromOfficialStore": false, "content": "Me encanta, pero la batería podría ser mejor. No siempre llega al final del día con uso intensivo.", "likes": 22, "photos": [] },
+      { "id": 504, "rating": 5, "date": "19 jun. 2025", "isFromOfficialStore": true, "content": "El 'Borrador Mágico' es increíble. He eliminado personas y objetos de mis fotos como si nunca hubieran estado allí.", "likes": 38, "photos": [] },
+      { "id": 505, "rating": 5, "date": "21 jun. 2025", "isFromOfficialStore": false, "content": "Tener las actualizaciones de Android al instante no tiene precio. La seguridad y las nuevas funciones primero que nadie.", "likes": 35, "photos": [] },
+      { "id": 506, "rating": 4, "date": "23 jun. 2025", "isFromOfficialStore": true, "content": "El diseño es minimalista y muy elegante. El tacto del cristal mate es muy agradable.", "likes": 28, "photos": [] },
+      { "id": 507, "rating": 5, "date": "25 jun. 2025", "isFromOfficialStore": false, "content": "La transcripción de la grabadora de voz es súper precisa, incluso en ambientes con ruido. Me ahorra mucho tiempo.", "likes": 30, "photos": [] }
+    ]
+  },
+  "6": {
+    "averageRating": 4.6,
+    "totalReviews": 161,
+    "ratingDistribution": [ { "stars": 5, "percentage": "75%" }, { "stars": 4, "percentage": "18%" }, { "stars": 3, "percentage": "5%" }, { "stars": 2, "percentage": "2%" }, { "stars": 1, "percentage": "0%" } ],
+    "featureRatings": [ { "name": "Diseño", "rating": 5 }, { "name": "Software", "rating": 4.8 }, { "name": "Rendimiento", "rating": 4.6 }, { "name": "Cámara", "rating": 4.3 } ],
+    "reviewPhotos": [],
+    "aiSummary": "El diseño del Nothing Phone (3) es el protagonista, recibiendo elogios por su originalidad y la Interfaz Glyph. El software limpio y rápido es otro punto fuerte. El rendimiento es excelente para el precio, aunque la cámara, si bien es buena, no compite con los teléfonos más caros.",
+    "reviews": [
+      { "id": 601, "rating": 5, "date": "20 jul. 2025", "isFromOfficialStore": false, "content": "El diseño es espectacular, no hay nada igual en el mercado. El sistema operativo es súper limpio.", "likes": 48, "photos": [] },
+      { "id": 602, "rating": 5, "date": "21 jul. 2025", "isFromOfficialStore": true, "content": "Me encantan las luces Glyph, son más útiles de lo que pensaba. El teléfono es muy rápido.", "likes": 33, "photos": [] },
+      { "id": 603, "rating": 4, "date": "22 jul. 2025", "isFromOfficialStore": false, "content": "Un teléfono muy balanceado. La cámara es decente, pero no es su punto más fuerte. El diseño lo compensa todo.", "likes": 25, "photos": [] },
+      { "id": 604, "rating": 5, "date": "24 jul. 2025", "isFromOfficialStore": true, "content": "Nothing OS es una bocanada de aire fresco. La estética monocromática es muy relajante y ayuda a no distraerte.", "likes": 39, "photos": [] },
+      { "id": 605, "rating": 4, "date": "26 jul. 2025", "isFromOfficialStore": false, "content": "Buena construcción y se siente sólido. Las luces Glyph son un gran tema de conversación.", "likes": 27, "photos": [] },
+      { "id": 606, "rating": 3, "date": "28 jul. 2025", "isFromOfficialStore": false, "content": "Me gustaría que la batería durara un poco más. Con un uso intensivo, llego justo al final del día.", "likes": 12, "photos": [] }
+    ]
+  }
+}

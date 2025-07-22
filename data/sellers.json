@@ -1,0 +1,87 @@
+
+{
+  "1": {
+    "name": "Tienda Oficial Samsung",
+    "logoUrl": "https://http2.mlstatic.com/D_NQ_NP_984015-MLA74975093699_032024-G.jpg",
+    "followers": "+15k",
+    "products": "+300",
+    "level": "Tienda oficial de la marca",
+    "levelDescription": "Garantía y confianza asegurada.",
+    "reputation": 5,
+    "sales": "+5000",
+    "medalIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/medal.svg",
+    "messageIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/message-positive-v2.svg",
+    "timeIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/time-positive-v2.svg",
+    "sellerPageUrl": "#"
+  },
+  "2": {
+    "name": "AppleStore Oficial",
+    "logoUrl": "https://http2.mlstatic.com/D_NQ_NP_675841-MLA49941198544_052022-F.jpg",
+    "followers": "+10k",
+    "products": "+100",
+    "level": "Tienda oficial",
+    "levelDescription": "Garantía y confianza de la marca.",
+    "reputation": 5,
+    "sales": "+1000",
+    "medalIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/medal.svg",
+    "messageIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/message-positive-v2.svg",
+    "timeIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/time-positive-v2.svg",
+    "sellerPageUrl": "#"
+  },
+  "3": {
+    "name": "Xiaomi Latam",
+    "logoUrl": "https://http2.mlstatic.com/D_NQ_NP_806302-MLA49941198547_052022-F.jpg",
+    "followers": "+8k",
+    "products": "+200",
+    "level": "MercadoLíder Gold",
+    "levelDescription": "¡Uno de los mejores del sitio!",
+    "reputation": 4,
+    "sales": "+1000",
+    "medalIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/medal.svg",
+    "messageIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/message-positive-v2.svg",
+    "timeIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/time-positive-v2.svg",
+    "sellerPageUrl": "#"
+  },
+  "4": {
+    "name": "TechWorld",
+    "logoUrl": "https://http2.mlstatic.com/D_NQ_NP_767183-MLA80741228930_112024-F.jpg",
+    "followers": "+50",
+    "products": "+500",
+    "level": "MercadoLíder Platinum",
+    "levelDescription": "¡Uno de los mejores del sitio!",
+    "reputation": 5,
+    "sales": "+500",
+    "medalIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/medal.svg",
+    "messageIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/message-positive-v2.svg",
+    "timeIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/time-positive-v2.svg",
+    "sellerPageUrl": "#"
+  },
+  "5": {
+    "name": "Pixel Fans Colombia",
+    "logoUrl": "https://http2.mlstatic.com/D_NQ_NP_997915-MLA49941198533_052022-F.jpg",
+    "followers": "+2k",
+    "products": "+50",
+    "level": "MercadoLíder",
+    "levelDescription": "¡Uno de los mejores del sitio!",
+    "reputation": 5,
+    "sales": "+300",
+    "medalIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/medal.svg",
+    "messageIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/message-positive-v2.svg",
+    "timeIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/time-positive-v2.svg",
+    "sellerPageUrl": "#"
+  },
+  "6": {
+    "name": "Design Tech",
+    "logoUrl": "https://http2.mlstatic.com/D_NQ_NP_767183-MLA80741228930_112024-F.jpg",
+    "followers": "+1k",
+    "products": "+30",
+    "level": "MercadoLíder",
+    "levelDescription": "¡Vendedor confiable!",
+    "reputation": 2,
+    "sales": "+200",
+    "medalIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/medal.svg",
+    "messageIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/message-positive-v2.svg",
+    "timeIconUrl": "https://http2.mlstatic.com/frontend-assets/vpp-frontend/time-positive-v2.svg",
+    "sellerPageUrl": "#"
+  }
+}
